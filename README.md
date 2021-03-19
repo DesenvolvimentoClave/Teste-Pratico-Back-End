@@ -4,7 +4,7 @@ Ganhamos o reconhecimento e confiança dos candidatos e das empresas de diversos
 
 Se você é um profissional que busca autoconhecimento para desenvolver competências que visam maximizar o potencial pessoal e profissional na busca de objetivos e metas com muita disposição e proatividade para trabalhar em uma empresa transparente em crescente expansão, você é um forte candidato a fazer parte deste time e crescer por meritocracia e ser reconhecido como um grande profissional conosco. =)
 
-Como Desenvolvedor Back-End você irá atuar no desenvolvimento de soluções em arquitetura AngularJs, JavaScript, React, RestFul APis, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
+Como Desenvolvedor Back-End você irá atuar no desenvolvimento de soluções em arquitetura JavaWeb, JavaServlets, SpringBoot, RestFul APis, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
 
 # Como é o time nosso de desenvolvedores?
 Somos uma equipe de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.<br><br>
@@ -17,20 +17,18 @@ Acreditamos em tudo que o mercado traz de novo e que possa agregar ao nosso dese
 Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
 Práticas ágeis como Kanban / Scrum<br>
-JavaScript<br>
-JQuery<br>
-VueJs<br>
-AngularJs<br>
+JavaWeb<br>
+JavaServlets<br>
+SpringBoot<br>
 NodeJs<br>
-React<br>
-CSS/SASS<br>
-Escalabilidade<br>
+MySQl<br>
+MongoDB<br>
+PHP<br>
 RestFul APIs e aplicações distribuídas<br>
 Git<br>
-Material Design<br>
-Bootstrap<br>
-UI/UX<br>
-React Native e Ionic<br>
+JWT<br>
+Oauth<br>
+Oauth2<br>
 
 # O que você deve fazer? <br>- Teste Prático -
 Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.<br>
@@ -50,19 +48,22 @@ Neste link você pode acessar o protótipo com o fluxo do projeto: https://clave
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
-Para desenvolver o projeto você deve ....
+Linguagens / Frameworks: <br>
+IDE: <br>
+Banco de Dados:<br>
+Estrutura do projeto: <br>
+Documentação: <br>
 
 # Entre os critérios de avaliação estão:
 
 Atendimento ao escopo do teste prático<br>
 Facilidade de configuração do projeto<br>
 Performance<br>
-Código limpo e organização<br>
+Código limpo e organização de conteúdo<br>
 Documentação de código<br>
-Documentação do projeto (readme)<br>
-Arquitetura<br>
+Documentação do projeto (readme)/ Caso de Uso / Diagrama de Dados Relacionais / Diagrama de Fluxo<br>
+Arquitetura aplicada<br>
 Boas práticas de desenvolvimento<br>
-Design Patterns<br>
 
 
 # Sobre você
