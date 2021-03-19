@@ -35,19 +35,38 @@ Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos ab
 
 Crie um sistema web que contenha os seguintes itens:<br>
 
-1) <b>Acesso</b> - Tela de Login apresentando apenas a captação de e-mail do usuário;<br>
-2) <b>Menu</b> - <br>
-<b><i>Dashboard</i></b> - direciona para a tela de Dashboard para apresentação de dados de empresas e Usuários;<br>
-<b><i>Usuários</b></i> - direciona para tela de Usuários apresentando cards com todos os usuários cadastrados no sistema;<br>
-3) <b>Dashboard Empresas</b> - tela de apresentação de análise de dados das empresas por pequeno, médio e grande porte; <br>
-4) <b>Dashboard Usuários</b> - tela de apresentação de análise de dados dos usuários por gênero;<br>
-5) <b>Apresentação de Usuários</b> - tela apresentando os usuários cadastrados;<br>
-6) <b>Modal de Informações de Usuários</b> - apresentação dos dados dos usuários cadastrados.<br>
+1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br><br>
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS.<br><br>
+3) <b><i>DASHBOARD</i></b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+<b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: pequeno, médio e grande, e botão para voltar ao menu; <br>
+<b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado, e botão para voltar ao menu.<br><br>
+4) <b><i>USUÁRIOS</b></i> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
+
+<b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
+- Nome de Usuário (apresentar Nome de acordo o carregamento da API);<br>
+- E-mail (apresentar E-mail de acordo o carregamento da API);<br>
+- Gênero (apresentar Gênero de acordo o carregamento da API);<br>
+- Função (apresentar Função de acordo o carregamento da API);<br>
+- Celular (apresentar Celular de acordo o carregamento da API);<br> 
+- País (apresentar País de acordo o carregamento da API);<br>
+- Empresa (apresentar Empresa de acordo o carregamento da API);<br>
+- Porte (apresentar Porte de acordo o carregamento da API);<br>
+
+<b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
+- Nome de Usuário (campo de texto simples);<br>
+- E-mail (campo de texto requerido para e-mail válido);<br>
+- Gênero (dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
+- Função (dropdown com Administrador, Operação e Básico);<br>
+- Celular (campo de adição de telefone com ddd + 9 dígitos);<br> 
+- País (dropdown com carregamento de países);<br>
+- Empresa (campo de texto simples);<br>
+- Porte (dropdown com Pequeno, Médio e Grande);<br>
 
 Neste link você pode acessar o protótipo com o fluxo do projeto: https://claveconsultoria.com.br
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
+API para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
 Linguagens / Frameworks: <br>
 IDE: <br>
 Banco de Dados:<br>
@@ -63,7 +82,7 @@ Performance<br>
 Código limpo e organização de conteúdo<br>
 Documentação de código<br>
 Documentação do projeto (readme)/ Caso de Uso / Diagrama de Dados Relacionais / Diagrama de Fluxo<br>
-Arquitetura aplicada<br>
+Arquitetura e tecnologias aplicadas<br>
 Boas práticas de desenvolvimento<br>
 
 
