@@ -65,7 +65,7 @@ Crie um sistema web que contenha os seguintes itens:<br>
 - Empresa (campo de texto simples);<br>
 - Porte (dropdown com Pequeno, Médio e Grande);<br>
 
-Neste link você pode acessar o protótipo com o fluxo do projeto: https://claveconsultoria.com.br
+Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
