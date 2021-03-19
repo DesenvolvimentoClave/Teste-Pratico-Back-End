@@ -56,6 +56,7 @@ Documentação: <br>
 
 # Entre os critérios de avaliação estão:
 
+Apresentação do projeto<br>
 Atendimento ao escopo do teste prático<br>
 Facilidade de configuração do projeto<br>
 Performance<br>
