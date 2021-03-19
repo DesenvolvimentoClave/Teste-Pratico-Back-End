@@ -37,10 +37,13 @@ Crie um sistema web que contenha os seguintes itens:<br>
 
 1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br><br>
 2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS.<br><br>
-3) <b><i>DASHBOARD</i></b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+
 <b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: pequeno, médio e grande, e botão para voltar ao menu; <br>
+
 <b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado, e botão para voltar ao menu.<br><br>
-4) <b><i>USUÁRIOS</b></i> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
+
+4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
 
 <b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (apresentar Nome de acordo o carregamento da API);<br>
