@@ -45,7 +45,7 @@ Crie um sistema web que contenha os seguintes itens:<br>
 
 4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
 
-<b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
+<b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (apresentar Nome de acordo o carregamento da API);<br>
 - E-mail (apresentar E-mail de acordo o carregamento da API);<br>
 - Gênero (apresentar Gênero de acordo o carregamento da API);<br>
@@ -55,7 +55,7 @@ Crie um sistema web que contenha os seguintes itens:<br>
 - Empresa (apresentar Empresa de acordo o carregamento da API);<br>
 - Porte (apresentar Porte de acordo o carregamento da API);<br>
 
-<b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
+<b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (campo de texto simples);<br>
 - E-mail (campo de texto requerido para e-mail válido);<br>
 - Gênero (dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
