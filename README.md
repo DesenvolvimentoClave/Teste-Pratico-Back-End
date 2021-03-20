@@ -36,7 +36,7 @@ Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos ab
 Crie um sistema web que contenha os seguintes itens:<br>
 
 1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br><br>
-2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS.<br><br>
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.<br><br>
 3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
 
 <b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: pequeno, médio e grande, e botão para voltar ao menu; <br>
