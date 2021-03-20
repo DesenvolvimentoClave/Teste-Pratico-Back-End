@@ -59,7 +59,7 @@ Crie um sistema web que contenha os seguintes itens:<br>
 - Nome de Usuário (campo de texto simples);<br>
 - E-mail (campo de texto requerido para e-mail válido);<br>
 - Gênero (dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
-- Função (dropdown com Administrador, Operação e Básico);<br>
+- Função (dropdown com Administrador e Básico);<br>
 - Celular (campo de adição de telefone com ddd + 9 dígitos);<br> 
 - País (dropdown com carregamento de países);<br>
 - Empresa (campo de texto simples);<br>
