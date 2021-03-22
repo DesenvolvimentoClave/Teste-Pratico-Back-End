@@ -80,7 +80,6 @@ Documentação: <br>
 
 Apresentação do projeto<br>
 Atendimento ao escopo do teste prático<br>
-Facilidade de configuração do projeto<br>
 Performance<br>
 Código limpo e organização de conteúdo<br>
 Documentação de código<br>
