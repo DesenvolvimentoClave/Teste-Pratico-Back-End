@@ -75,9 +75,9 @@ Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a hr
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
 <b>API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
-<b>Linguagens / Frameworks:</b> SpringBoot ou NodeJS<br>
-<b>IDE:</b> Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io)<br>
-<b>Banco de Dados:</b> MySQl (local)<br>
+<b>Linguagens / Frameworks:</b> SpringBoot ou NodeJS.<br>
+<b>IDE:</b> Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).<br>
+<b>Banco de Dados:</b> MySQl (local).<br>
 <b>Arquitetura/Estrutura do projeto:</b> Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
 <b>Documentação:</b> Livre escolha para apresentação do formato da documentação.<br>
 
