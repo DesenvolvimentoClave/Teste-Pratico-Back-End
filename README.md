@@ -31,18 +31,18 @@ Oauth<br>
 Oauth2<br>
 
 # O que você deve fazer? <br>- Teste Prático -
-Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.<br>
+Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.
 
-Crie um sistema web que contenha os seguintes itens:<br>
+Crie um sistema web que contenha os seguintes itens:
 
-1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br><br>
-- os usuários deverão ser identificados por acesso Administrador e Básico. Captando apenas o e-mail do usuário para autenticação do perfil.
+1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
+- os usuários deverão ser identificados por acesso Administrador e Básico. Captando apenas o e-mail do usuário para autenticação do perfil.<br>
 
-2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.<br><br>
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.
 - os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
-- os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.
+- os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br>
 
-3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
 <b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: Pequeno / Médio / Grande e botão para voltar ao menu; <br>
 
@@ -74,12 +74,12 @@ Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a hr
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
-API para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
-Linguagens / Frameworks: SpringBoot ou NodeJS<br>
-IDE: Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io)<br>
-Banco de Dados: MySQl (local)<br>
-Arquitetura/Estrutura do projeto: Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
-Documentação: Livre escolha para apresentação do formato da documentação.<br>
+<b>API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
+<b>Linguagens / Frameworks:</b> SpringBoot ou NodeJS<br>
+<b>IDE:</b> Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io)<br>
+<b>Banco de Dados:</b> MySQl (local)<br>
+<b>Arquitetura/Estrutura do projeto:</b> Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
+<b>Documentação:</b> Livre escolha para apresentação do formato da documentação.<br>
 
 # Entre os critérios de avaliação estão:
 
