@@ -35,12 +35,12 @@ Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos ab
 
 Crie um sistema web que contenha os seguintes itens:
 
-1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
-1.1) os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.<br>
+1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br>
+<b><i>1.1) Autenticação de Perfil:</i></b> Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.<br>
 
-2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.
-2.1) os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
-2.2) os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br>
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.<br>
+<b><i>2.1) Acesso Administrador:</i></b> Os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
+<b><i>2.2) Acesso Básico:</i></b> Os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br>
 
 3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
