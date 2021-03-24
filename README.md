@@ -39,10 +39,14 @@ Crie um sistema web que contenha os seguintes itens:
 
 <b><i>1.1) Autenticação de Perfil:</i></b> Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.<br><br>
 
-2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.
+
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD, USUÁRIOS e MEU PERFIL. No final da tela adicionar botão de sair do sistema para deslogar o usuário.
 
 <b><i>2.1) Acesso Administrador:</i></b> Os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.<br>
-<b><i>2.2) Acesso Básico:</i></b> Os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br><br>
+<b><i>2.2) Acesso Básico:</i></b> Os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele(Meu Perfil) para visualizar o seu cadastro. Se o usuário básico tentar acessar os recursos de Administrador, recusar o acesso e apresentar as seguintes notificações:
+
+- Notificação de recusa de acesso à Dashboard: "O seu perfil não possui acesso a este recurso";<br>
+- Notificação de recusa de acesso à Usuários: "O seu perfil não possui acesso a este recurso";<br>
 
 3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
@@ -53,14 +57,14 @@ Crie um sistema web que contenha os seguintes itens:
 4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
 
 <b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
-- Nome de Usuário (apresentar Nome de acordo com a API);<br>
-- E-mail (apresentar E-mail de acordo com a API);<br>
-- Gênero (apresentar Gênero de acordo com a API);<br>
-- Função (apresentar Função de acordo com a API);<br>
-- Celular (apresentar Celular de acordo com a API);<br> 
-- País (apresentar País de acordo com a API);<br>
-- Empresa (apresentar Empresa de acordo com a API);<br>
-- Porte (apresentar Porte de acordo com a API);
+- Nome de Usuário (apresentar dados de Nome de acordo com a API);<br>
+- E-mail (apresentar dados de E-mail de acordo com a API);<br>
+- Gênero (apresentar dados de Gênero de acordo com a API);<br>
+- Função (apresentar dados de Função de acordo com a API);<br>
+- Celular (apresentar dados de Celular de acordo com a API);<br> 
+- País (apresentar dados de País de acordo com a API);<br>
+- Empresa (apresentar dados de Empresa de acordo com a API);<br>
+- Porte (apresentar dados de Porte de acordo com a API);
 
 <b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (campo de texto requerido simples);<br>
@@ -72,7 +76,18 @@ Crie um sistema web que contenha os seguintes itens:
 - Empresa (campo de texto simples);<br>
 - Porte (dropdown com Pequeno, Médio e Grande);
 
-Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
+5) <b>MEU PERFIL</b> - Ao clicar em "Meu Perfil" no menu abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: <br>
+- Nome de Usuário (apresentar dados de Nome de acordo com a API);<br>
+- E-mail (apresentar dados de E-mail de acordo com a API);<br>
+- Gênero (apresentar dados de Gênero de acordo com a API);<br>
+- Função (apresentar dados de Função de acordo com a API);<br>
+- Celular (apresentar dados de Celular de acordo com a API);<br> 
+- País (apresentar dados de País de acordo com a API);<br>
+- Empresa (apresentar dados de Empresa de acordo com a API);<br>
+- Porte (apresentar dados de Porte de acordo com a API);
+
+
+Neste link você pode acessar o diagrama do fluxo do projeto: Acessar <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
