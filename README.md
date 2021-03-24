@@ -46,13 +46,13 @@ Crie um sistema web que contenha os seguintes itens:
 <b><i>2.2) Acesso Básico:</i></b> Os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele(Meu Perfil) para visualizar o seu cadastro. Se o usuário básico tentar acessar os recursos de Administrador, recusar o acesso e apresentar as seguintes notificações:
 
 - Notificação de recusa de acesso à Dashboard: "O seu perfil não possui acesso a este recurso";<br>
-- Notificação de recusa de acesso à Usuários: "O seu perfil não possui acesso a este recurso";<br>
+- Notificação de recusa de acesso à Usuários: "O seu perfil não possui acesso a este recurso".<br>
 
 3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
-<b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: Pequeno / Médio / Grande e botão para voltar ao menu; <br>
+<b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação com o total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: Pequeno / Médio / Grande e botão para voltar ao menu; <br>
 
-<b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem / Mulher / Homem Transgênero / Mulher Transgênero / Intergênero / Não Informado  e botão para voltar ao menu.<br><br>
+<b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados, gráfico de pizza de análise de dados dos usuários por gênero: Homem / Mulher / Homem Transgênero / Mulher Transgênero / Intergênero / Não Informado e botão para voltar ao menu.<br><br>
 
 4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
 
@@ -76,7 +76,7 @@ Crie um sistema web que contenha os seguintes itens:
 - Empresa (campo de texto simples);<br>
 - Porte (dropdown com Pequeno, Médio e Grande);
 
-5) <b>MEU PERFIL</b> - Ao clicar em "Meu Perfil" no menu abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: <br>
+5) <b>MEU PERFIL</b> - Ao clicar em "Meu Perfil" no menu, abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: <br>
 - Nome de Usuário (apresentar dados de Nome de acordo com a API);<br>
 - E-mail (apresentar dados de E-mail de acordo com a API);<br>
 - Gênero (apresentar dados de Gênero de acordo com a API);<br>
@@ -87,7 +87,7 @@ Crie um sistema web que contenha os seguintes itens:
 - Porte (apresentar dados de Porte de acordo com a API);
 
 
-Neste link você pode acessar o diagrama do fluxo do projeto: Acessar <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
+Neste link você pode acessar o diagrama do fluxo do projeto: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
