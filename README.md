@@ -6,7 +6,7 @@ Se você é um profissional que busca autoconhecimento para desenvolver competê
 
 Como Desenvolvedor Back-End você irá atuar no desenvolvimento de soluções em arquitetura JavaWeb, JavaServlets, SpringBoot, RestFul APIs, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
 
-# Como é o time nosso de desenvolvedores?
+# Como é o nosso time de desenvolvedores?
 Somos uma equipe de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.<br><br>
 Nossa equipe é altamente preocupada com a experiência do nosso cliente e fazemos do nosso ambiente de desenvolvimento o mais descontraído, leve e agradável ao nosso time que trabalha super focado em busca de muitas pizzas por entregas! :D
 
