@@ -88,9 +88,10 @@ Crie um sistema web que contenha os seguintes itens:
 
 
 <b>Nestes links você pode acessar os conteúdos base para o desenvolvimento da solução:</b>
-Diagrama do fluxo do projeto: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Fluxo-do-projeto.png"> Acessar</a>
-Diagrama de caso de uso: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Caso-de-Uso_Prototipo-Teste-Pratico.png"> Acessar</a>
-Diagrama do dados relacionais: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
+
+Diagrama do fluxo do projeto: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Fluxo-do-projeto.png"> Acessar</a><br>
+Diagrama de caso de uso: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Caso-de-Uso_Prototipo-Teste-Pratico.png"> Acessar</a><br>
+Diagrama do dados relacionais: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a><br>
 Protótipo: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Protitipo_teste_pratico.png"> Acessar</a>
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
