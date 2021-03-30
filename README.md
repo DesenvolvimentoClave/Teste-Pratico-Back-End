@@ -89,7 +89,7 @@ Crie um sistema web que contenha os seguintes itens:
    menu.
 <br>
 
-4. 👪 **USUÁRIOS**: Tela de "Usuários" 
+4. 👪 **USUÁRIOS** - Tela de "Usuários" 
  - **Card** - apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.
  - **Botão Cadastro** - Apresentar botão para um novo usuário.
 	 **Modal de Cadastramento de Usuários** - Ao clicar no botão de "Cadastrar 	Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar  / Salvar e campos com os seguintes atributos: 
@@ -115,7 +115,7 @@ Crie um sistema web que contenha os seguintes itens:
 	- *Porte*: (apresentar dados de Porte de acordo com a API);
 <br>
 
-5. :blush: **MEU PERFIL** : Ao clicar em "Meu Perfil" no menu, abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: 
+5. :blush: **MEU PERFIL** - Ao clicar em "Meu Perfil" no menu, abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: 
 
 - *Nome de Usuário* (apresentar dados de Nome de acordo com a API);
 - *E-mail*: (apresentar dados de E-mail de acordo com a API);<br>
