@@ -48,14 +48,14 @@ Vamos ser práticos e diretos! Siga as instruções abaixo:
 
 Crie um sistema web que contenha os seguintes itens:
 
-1. Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
+1. :lock: Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
 
- 	:lock: **Autenticação de Perfil**
+ 	 **Autenticação de Perfil**
 	
  	Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.
 <br>
 
-2. **Home** -  Tela princinpal 
+2. :wedding: **Home** -  Tela princinpal 
  - Apresentar a logo 
  - Nome do usuário
  - Menu de Navegação: DASHBOARD, USUÁRIOS e MEU PERFIL. 
@@ -76,20 +76,20 @@ Crie um sistema web que contenha os seguintes itens:
 	Notificação de recusa de acesso à Usuários: "O seu perfil não possui acesso a este recurso"
 <br>
 
-3.  **DASHBOARD** - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
+3.  :bar_chart: **DASHBOARD** - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
  - **Dashboard Empresas** - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das
    empresas por porte: Pequeno / Médio / Grande e botão para voltar ao
    menu; <br>
    
- - **Dashboard Usuários** - Tela de apresentação com o total de usuários cadastrados, gráfico de pizza de análise de dados dos
+ -  **Dashboard Usuários** - Tela de apresentação com o total de usuários cadastrados, gráfico de pizza de análise de dados dos
 **Gráfico**  - *usuários por gênero:* 
     Homem / Mulher / Homem Transgênero / Mulher
    Transgênero / Intergênero / Não Informado e botão para voltar ao
    menu.
 <br>
 
-4. **USUÁRIOS**: Tela de "Usuários" 
+4. 👪 **USUÁRIOS**: Tela de "Usuários" 
  - **Card** - apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.
  - **Botão Cadastro** - Apresentar botão para um novo usuário.
 	 **Modal de Cadastramento de Usuários** - Ao clicar no botão de "Cadastrar 	Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar  / Salvar e campos com os seguintes atributos: 
@@ -114,7 +114,8 @@ Crie um sistema web que contenha os seguintes itens:
 	- *Empresa*: (apresentar dados de Empresa de acordo com a API)
 	- *Porte*: (apresentar dados de Porte de acordo com a API);
 <br>
-5. <b>MEU PERFIL</b> : Ao clicar em "Meu Perfil" no menu, abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: 
+
+5. :blush: **MEU PERFIL** : Ao clicar em "Meu Perfil" no menu, abrir uma modal de apresentação do perfil do usuário com o carregamento dos dados dele à partir da API com os botões de Cancelar / Excluir / Salvar e com os seguintes atributos: 
 
 - *Nome de Usuário* (apresentar dados de Nome de acordo com a API);
 - *E-mail*: (apresentar dados de E-mail de acordo com a API);<br>
