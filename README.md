@@ -134,7 +134,7 @@ Crie um sistema web que contenha os seguintes itens:
 
 [Diagrama de caso de uso](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Caso-de-Uso_Prototipo-Teste-Pratico-dev.png) 
 
-[Diagrama de dados relacionais](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png)
+[Diagrama de dados relacionais](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Diagrama-de-Dados-Relacionais.png)
 
 [Protótipo](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-Pratico-desenvolvedor.png)
 
