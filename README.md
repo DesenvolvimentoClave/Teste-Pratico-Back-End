@@ -128,10 +128,17 @@ Crie um sistema web que contenha os seguintes itens:
 
 
 ## :point_down: Nestes links você pode acessar os conteúdos base para o desenvolvimento da solução:
+**Como escopo para o desenvolvimento você deve aplicar**
 
+API para ser aplicada ao projeto: https://claveconsultoria.com.br
+Linguagens / Frameworks: SpringBoot ou NodeJS.
 
-[Diagrama do fluxo do projeto](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Fluxo-do-projeto.png)
+IDE: Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).
+Banco de Dados: MySql (local).
 
+Arquitetura/Estrutura do projeto: Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.
+
+Documentação: Livre escolha para apresentação do formato da documentação.
 [Diagrama de caso de uso](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Caso-de-Uso_Prototipo-Teste-Pratico-dev.png) 
 
 [Diagrama de dados relacionais](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Diagrama-de-Dados-Relacionais.png)
