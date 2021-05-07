@@ -140,7 +140,7 @@ Crie um sistema web que contenha os seguintes itens:
 
 <b>Linguagens / Frameworks:</b> SpringBoot.<br>
 <b>Banco de Dados:</b> MySQL (local).<br>
-<b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em Json.
+<b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em JSON.
 
 <b>IDE - Sugestão:</b> 
 [*VS Code*](https://code.visualstudio.com/)
