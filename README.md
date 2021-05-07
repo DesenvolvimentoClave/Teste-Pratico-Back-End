@@ -146,7 +146,7 @@ Documentação: Livre escolha para apresentação do formato da documentação.
 ## :rocket: Como escopo para o desenvolvimento você deve aplicar:
 
 <b>Linguagens / Frameworks:</b> SpringBoot.<br>
-<b>Banco de Dados:</b> MySQL (local).
+<b>Banco de Dados:</b> MySQL (local).<br>
 <b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em Json.
 
 <b>IDE - Sugestão:</b> 
