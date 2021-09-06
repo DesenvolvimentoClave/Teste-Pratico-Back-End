@@ -36,7 +36,6 @@ Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, 
  - NodeJs 
  - MySQl 
  - MongoDB 
- - PHP 
  - RestFul APIs e aplicações distribuídas 
  - Git
  - JWT 
