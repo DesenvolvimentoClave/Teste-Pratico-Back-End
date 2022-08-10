@@ -13,7 +13,7 @@ Ganhamos o reconhecimento e confiança dos candidatos e das empresas de diversos
 
 Se você é um profissional que busca autoconhecimento para desenvolver competências que visam maximizar o potencial pessoal e profissional na busca de objetivos e metas com muita disposição e proatividade para trabalhar em uma empresa transparente em crescente expansão, você é um forte candidato a fazer parte deste time e crescer por meritocracia e ser reconhecido como um grande profissional conosco :smile:
 
-Como **Desenvolvedor Back-End** você irá atuar no desenvolvimento de soluções em arquitetura JavaWeb, JavaServlets, SpringBoot, RestFul APIs, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
+Como **Desenvolvedor Back-End** você irá atuar no desenvolvimento de soluções em arquitetura de programação Low Code em Blocos (Blockly) com base estruturada em JavaServlets, SpringBoot, RestFul APIs, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
 
 ###  :computer: Como é o nosso time de desenvolvedores?
 
@@ -31,12 +31,14 @@ Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, 
 
  - Práticas ágeis como Kanban / Scrum
  - Microsserviços
- - JavaServlets 
- - SpringBoot 
+ - Blocos de progrmação Low Code - Blockly
+ - JavaServlets (estrutura)
+ - SpringBoot (estrutura) 
  - MySQl 
  - RestFul APIs e aplicações distribuídas 
- - Git
+ - Git/Github
  - JWT 
+ - SSO (OpenID, SAML)
  - Oauth e Oauth2
 
 ## :loop: Teste prático de Back-end
