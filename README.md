@@ -7,7 +7,7 @@
 
 ## :office:  Quem é a Clave?
 
-Com a experiência de mais de 25 anos de mercado em processos de mapeamento de perfil e potencial, atrelada às melhores práticas e processos comprovados em toda nossa rede de clientes, a Clave se consolidou com uma das melhores consultorias em recursos humanos do mercado. Atuando de forma objetiva, transparente e ética. <br>
+Com a experiência de mais de 28 anos de mercado em processos de mapeamento de perfil e potencial, atrelada às melhores práticas e processos comprovados em toda nossa rede de clientes, a Clave se consolidou com uma das melhores consultorias em recursos humanos do mercado. Atuando de forma objetiva, transparente e ética. <br>
 Ganhamos o reconhecimento e confiança dos candidatos e das empresas de diversos portes e segmentos em todo o território brasileiro.
 ## 🤔 Quem procuramos ?
 
@@ -30,16 +30,14 @@ Acreditamos em tudo que o mercado traz de novo e que possa agregar ao nosso dese
 Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
  - Práticas ágeis como Kanban / Scrum
- - JavaWeb 
+ - Microsserviços
  - JavaServlets 
- - SpringBoot
- - NodeJs 
+ - SpringBoot 
  - MySQl 
- - MongoDB 
  - RestFul APIs e aplicações distribuídas 
  - Git
  - JWT 
- - Oauth  e Oauth2
+ - Oauth e Oauth2
 
 ## :loop: Teste prático de Back-end
 
