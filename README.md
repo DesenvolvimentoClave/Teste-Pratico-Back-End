@@ -159,9 +159,9 @@ Crie um sistema web que contenha os seguintes itens:
  - Código limpo e organização de conteúdo 
  - Documentação de código 
  - Documentação do projeto (readme)
- - Caso de Uso / Diagrama de Dados Relacionais / Diagrama de Fluxo
+ - Compreensão sobre Caso de Uso / Diagrama de Dados Relacionais / Diagrama de Fluxo
  - Arquitetura e tecnologias aplicadas 
- - Boas práticas de desenvolvimento e TDD 
+ - Boas práticas de desenvolvimento
  - Design Patterns/Padrões de Projetos
 
 ## :punch: Sobre você
